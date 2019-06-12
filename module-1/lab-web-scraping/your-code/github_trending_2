@@ -66,7 +66,7 @@
   
   <meta name="pjax-timeout" content="1000">
   
-  <meta name="request-id" content="857E:3D686:442AA80:6864328:5CFF7751" data-pjax-transient>
+  <meta name="request-id" content="E504:120DF:39B569:56CA9D:5CFFF75C" data-pjax-transient>
 
 
   
@@ -77,7 +77,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="857E:3D686:442AA80:6864328:5CFF7751" /><meta name="octolytics-dimension-region_edge" content="ams" /><meta name="octolytics-dimension-region_render" content="iad" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="E504:120DF:39B569:56CA9D:5CFFF75C" /><meta name="octolytics-dimension-region_edge" content="ams" /><meta name="octolytics-dimension-region_render" content="iad" />
 
 
 
@@ -95,11 +95,11 @@
     <meta name="user-login" content="">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="N2VmNTAxZjZlZDI5M2IzZjg5YzNjMzU1ZjVlZTZmOTI3OGM4OTVlMDA2MDhhZDljZjBhYTljMWY3MWFlYzBjNXx7InJlbW90ZV9hZGRyZXNzIjoiMTc2LjgzLjE2LjU5IiwicmVxdWVzdF9pZCI6Ijg1N0U6M0Q2ODY6NDQyQUE4MDo2ODY0MzI4OjVDRkY3NzUxIiwidGltZXN0YW1wIjoxNTYwMjQ2MDk4LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+    <meta name="js-proxy-site-detection-payload" content="YTlkZjdhN2VlY2Y0MGIxMTBkZmY4OTMwMzY5Y2RhNGRhMWIwZjAwM2NkNjFmMTQzMDlmYjU0YTJiNjZhNjU0MHx7InJlbW90ZV9hZGRyZXNzIjoiODguMTIuMjAxLjE2MyIsInJlcXVlc3RfaWQiOiJFNTA0OjEyMERGOjM5QjU2OTo1NkNBOUQ6NUNGRkY3NUMiLCJ0aW1lc3RhbXAiOjE1NjAyNzg4NzcsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
     <meta name="enabled-features" content="UNIVERSE_BANNER,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS">
 
-  <meta name="html-safe-nonce" content="328906c22fe2ca0c5ac17b632c8f88dda11d5564">
+  <meta name="html-safe-nonce" content="a1f7592bdf9c511f1d87d7bbf83424be713701f8">
 
   <meta http-equiv="x-pjax-version" content="da95654682210e8494aab7b07cdc3de5">
   
@@ -154,7 +154,7 @@
         <div class="d-flex flex-items-center">
             <a href="/join?source=header"
               class="d-inline-block d-lg-none f5 text-white no-underline border border-gray-dark rounded-2 px-2 py-1 mr-3 mr-sm-5"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;857E:3D686:442AA80:6864328:5CFF7751&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5b6f13608d0ca6b9059d6392ef9eb197d14c09a83c847f1f6f5c6217b69ec055"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;E504:120DF:39B569:56CA9D:5CFFF75C&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3776626fcc42c39605f847542ae3e8d604f406984d438868063ec853333854c2"
               data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">
               Sign&nbsp;up
             </a>
@@ -295,7 +295,7 @@
           aria-autocomplete="list"
           aria-controls="jump-to-results"
           aria-label="Search GitHub"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=yrIIQF5nHK3Kpx4L5X23OHWfYlFazMq1Fokf4ObGAeE5RSL8JqrTYOY738PTs+n/Ev+KynTPkhLZ5loUTmCfVg=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=yMYAT+FMpr+DjdMx8WeDlQuOJt24J+Jr0bBLfC3hMZt2q6BjAz2vorGm4nViYf08l3N7iQD7D+XLO4vdbRS10Q=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -422,13 +422,13 @@
 
         <a href="/login?return_to=%2Ftrending%2Fpython%3Fsince%3Ddaily"
           class="HeaderMenu-link no-underline mr-3"
-          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;857E:3D686:442AA80:6864328:5CFF7751&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3273b9e657f977792b62f0e83bee6384947b0bee60237b86a51f2f2aa4cd3d9a"
+          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;E504:120DF:39B569:56CA9D:5CFFF75C&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3ddb55309372b5d0122475cdaf03725edb66bcb9cb2d2eaeb35dfaf327a701da"
           data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
           Sign&nbsp;in
         </a>
           <a href="/join?source=header"
             class="HeaderMenu-link d-inline-block no-underline border border-gray-dark rounded-1 px-2 py-1"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;857E:3D686:442AA80:6864328:5CFF7751&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3273b9e657f977792b62f0e83bee6384947b0bee60237b86a51f2f2aa4cd3d9a"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;E504:120DF:39B569:56CA9D:5CFFF75C&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3ddb55309372b5d0122475cdaf03725edb66bcb9cb2d2eaeb35dfaf327a701da"
             data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">
             Sign&nbsp;up
           </a>
@@ -523,7 +523,7 @@
   </div>
 
   <div class="float-right">
-        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:175052225,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;857E:3D686:442AA80:6864328:5CFF7751&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3175da0c172dea0accb79403dfd3782eb70bd57ca52153b30cdcc16adcff9148" href="/login?return_to=%2Fsfyc23%2FEverydayWechat">
+        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:175052225,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;E504:120DF:39B569:56CA9D:5CFFF75C&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ee02f5024d3d78622c8dcbf27465c52fb38d6ada1ac1803172209b4b49989517" href="/login?return_to=%2Fsfyc23%2FEverydayWechat">
       <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
       Star
 </a>
@@ -545,12 +545,12 @@
 
       <a class="muted-link d-inline-block mr-3" href="/sfyc23/EverydayWechat/stargazers">
         <svg aria-label="star" class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        2,113
+        2,218
       </a>
 
       <a class="muted-link d-inline-block mr-3" href="/sfyc23/EverydayWechat/network/members">
         <svg aria-label="fork" class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" role="img"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-        411
+        429
       </a>
 
     
@@ -565,7 +565,60 @@
 
       <span class="d-inline-block float-sm-right">
         <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        566 stars today
+        508 stars today
+      </span>
+  </div>
+</li>
+
+              <li class="col-12 d-block width-full py-4 border-bottom" id="pa-hub">
+  <div class="d-inline-block col-9 mb-1">
+    <h3>
+      <a href="/pytorch/hub">
+        <span class="text-normal">pytorch / </span>hub
+</a>    </h3>
+  </div>
+
+  <div class="float-right">
+        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:182829578,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;E504:120DF:39B569:56CA9D:5CFFF75C&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7da546d14d4533ca6d389ba7b60ab2f00ed4cae12506de29deffebe05571ba3e" href="/login?return_to=%2Fpytorch%2Fhub">
+      <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      Star
+</a>
+
+  </div>
+
+  <div class="py-1">
+  </div>
+
+  <div class="f6 text-gray mt-2">
+      <span class="d-inline-block ml-0 mr-3">
+  <span class="repo-language-color" style="background-color: #3572A5"></span>
+  <span itemprop="programmingLanguage">Python</span>
+</span>
+
+
+      <a class="muted-link d-inline-block mr-3" href="/pytorch/hub/stargazers">
+        <svg aria-label="star" class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+        378
+      </a>
+
+      <a class="muted-link d-inline-block mr-3" href="/pytorch/hub/network/members">
+        <svg aria-label="fork" class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" role="img"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+        34
+      </a>
+
+    
+        <span class="d-inline-block mr-3">
+          Built by
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=5248122" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/ailzhang"><img class="avatar mb-1" src="https://avatars2.githubusercontent.com/u/5248122?s=40&amp;v=4" width="20" height="20" alt="@ailzhang" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=1310570" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/soumith"><img class="avatar mb-1" src="https://avatars1.githubusercontent.com/u/1310570?s=40&amp;v=4" width="20" height="20" alt="@soumith" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=11398925" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/jspisak"><img class="avatar mb-1" src="https://avatars3.githubusercontent.com/u/11398925?s=40&amp;v=4" width="20" height="20" alt="@jspisak" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=16107619" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/VictorSanh"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/16107619?s=40&amp;v=4" width="20" height="20" alt="@VictorSanh" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=23697994" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Molugan"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/23697994?s=40&amp;v=4" width="20" height="20" alt="@Molugan" /></a>
+        </span>
+
+      <span class="d-inline-block float-sm-right">
+        <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+        327 stars today
       </span>
   </div>
 </li>
@@ -579,7 +632,7 @@
   </div>
 
   <div class="float-right">
-        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:101138315,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;857E:3D686:442AA80:6864328:5CFF7751&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="15735765d3565e31d8912a6b41b73ef76c4db282eb267115786d1eafc07d4fd9" href="/login?return_to=%2Fd2l-ai%2Fd2l-zh">
+        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:101138315,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;E504:120DF:39B569:56CA9D:5CFFF75C&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7ff8ffe6ef3ab7e0777f193fa165650078e5a563037611cd7fe4e4e1e61eb36b" href="/login?return_to=%2Fd2l-ai%2Fd2l-zh">
       <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
       Star
 </a>
@@ -601,12 +654,12 @@
 
       <a class="muted-link d-inline-block mr-3" href="/d2l-ai/d2l-zh/stargazers">
         <svg aria-label="star" class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        8,584
+        8,657
       </a>
 
       <a class="muted-link d-inline-block mr-3" href="/d2l-ai/d2l-zh/network/members">
         <svg aria-label="fork" class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" role="img"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-        2,262
+        2,272
       </a>
 
     
@@ -621,63 +674,7 @@
 
       <span class="d-inline-block float-sm-right">
         <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        256 stars today
-      </span>
-  </div>
-</li>
-
-              <li class="col-12 d-block width-full py-4 border-bottom" id="pa-Python">
-  <div class="d-inline-block col-9 mb-1">
-    <h3>
-      <a href="/TheAlgorithms/Python">
-        <span class="text-normal">TheAlgorithms / </span>Python
-</a>    </h3>
-  </div>
-
-  <div class="float-right">
-        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:63476337,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;857E:3D686:442AA80:6864328:5CFF7751&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="2fe93eb157177b6fe642b681956439a3420e71ec820b17ba9ba68cd9cd3f6153" href="/login?return_to=%2FTheAlgorithms%2FPython">
-      <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-      Star
-</a>
-
-  </div>
-
-  <div class="py-1">
-      <p class="col-9 d-inline-block text-gray m-0 pr-4">
-        All Algorithms implemented in Python
-      </p>
-  </div>
-
-  <div class="f6 text-gray mt-2">
-      <span class="d-inline-block ml-0 mr-3">
-  <span class="repo-language-color" style="background-color: #3572A5"></span>
-  <span itemprop="programmingLanguage">Python</span>
-</span>
-
-
-      <a class="muted-link d-inline-block mr-3" href="/TheAlgorithms/Python/stargazers">
-        <svg aria-label="star" class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        45,482
-      </a>
-
-      <a class="muted-link d-inline-block mr-3" href="/TheAlgorithms/Python/network/members">
-        <svg aria-label="fork" class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" role="img"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-        13,043
-      </a>
-
-    
-        <span class="d-inline-block mr-3">
-          Built by
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=14276147" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/harshildarji"><img class="avatar mb-1" src="https://avatars1.githubusercontent.com/u/14276147?s=40&amp;v=4" width="20" height="20" alt="@harshildarji" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=14369357" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/dynamitechetan"><img class="avatar mb-1" src="https://avatars1.githubusercontent.com/u/14369357?s=40&amp;v=4" width="20" height="20" alt="@dynamitechetan" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=23243382" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/christianbender"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/23243382?s=40&amp;v=4" width="20" height="20" alt="@christianbender" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=10573038" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/AnupKumarPanwar"><img class="avatar mb-1" src="https://avatars2.githubusercontent.com/u/10573038?s=40&amp;v=4" width="20" height="20" alt="@AnupKumarPanwar" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=17557934" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/daniel-s-ingram"><img class="avatar mb-1" src="https://avatars3.githubusercontent.com/u/17557934?s=40&amp;v=4" width="20" height="20" alt="@daniel-s-ingram" /></a>
-        </span>
-
-      <span class="d-inline-block float-sm-right">
-        <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        187 stars today
+        250 stars today
       </span>
   </div>
 </li>
@@ -691,7 +688,7 @@
   </div>
 
   <div class="float-right">
-        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:171749239,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;857E:3D686:442AA80:6864328:5CFF7751&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="dd3c204222cd1a71ea8b3196c7966707cd094c9c87b477e87180e12fbf047daf" href="/login?return_to=%2Fanned20%2Fbegoneads">
+        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:171749239,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;E504:120DF:39B569:56CA9D:5CFFF75C&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="12d5286f1e454ca707cbe806abe2f037d4cc3adeafab6f11b61705c737a5bd9b" href="/login?return_to=%2Fanned20%2Fbegoneads">
       <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
       Star
 </a>
@@ -713,12 +710,12 @@
 
       <a class="muted-link d-inline-block mr-3" href="/anned20/begoneads/stargazers">
         <svg aria-label="star" class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        189
+        231
       </a>
 
       <a class="muted-link d-inline-block mr-3" href="/anned20/begoneads/network/members">
         <svg aria-label="fork" class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" role="img"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-        6
+        7
       </a>
 
     
@@ -730,21 +727,21 @@
 
       <span class="d-inline-block float-sm-right">
         <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        171 stars today
+        191 stars today
       </span>
   </div>
 </li>
 
-              <li class="col-12 d-block width-full py-4 border-bottom" id="pa-hub">
+              <li class="col-12 d-block width-full py-4 border-bottom" id="pa-Python">
   <div class="d-inline-block col-9 mb-1">
     <h3>
-      <a href="/pytorch/hub">
-        <span class="text-normal">pytorch / </span>hub
+      <a href="/TheAlgorithms/Python">
+        <span class="text-normal">TheAlgorithms / </span>Python
 </a>    </h3>
   </div>
 
   <div class="float-right">
-        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:182829578,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;857E:3D686:442AA80:6864328:5CFF7751&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4c36cd0ac1ad333addddc5e70196a6a304c2da273c3a9fcc4754cc066500c22f" href="/login?return_to=%2Fpytorch%2Fhub">
+        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:63476337,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;E504:120DF:39B569:56CA9D:5CFFF75C&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ccabd126c3f2bb51aa87fa35929d86ea7635f7938d740ff90e700ad29c24b089" href="/login?return_to=%2FTheAlgorithms%2FPython">
       <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
       Star
 </a>
@@ -752,6 +749,9 @@
   </div>
 
   <div class="py-1">
+      <p class="col-9 d-inline-block text-gray m-0 pr-4">
+        All Algorithms implemented in Python
+      </p>
   </div>
 
   <div class="f6 text-gray mt-2">
@@ -761,29 +761,29 @@
 </span>
 
 
-      <a class="muted-link d-inline-block mr-3" href="/pytorch/hub/stargazers">
+      <a class="muted-link d-inline-block mr-3" href="/TheAlgorithms/Python/stargazers">
         <svg aria-label="star" class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        251
+        45,526
       </a>
 
-      <a class="muted-link d-inline-block mr-3" href="/pytorch/hub/network/members">
+      <a class="muted-link d-inline-block mr-3" href="/TheAlgorithms/Python/network/members">
         <svg aria-label="fork" class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" role="img"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-        25
+        13,056
       </a>
 
     
         <span class="d-inline-block mr-3">
           Built by
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=5248122" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/ailzhang"><img class="avatar mb-1" src="https://avatars2.githubusercontent.com/u/5248122?s=40&amp;v=4" width="20" height="20" alt="@ailzhang" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=1310570" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/soumith"><img class="avatar mb-1" src="https://avatars1.githubusercontent.com/u/1310570?s=40&amp;v=4" width="20" height="20" alt="@soumith" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=11398925" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/jspisak"><img class="avatar mb-1" src="https://avatars3.githubusercontent.com/u/11398925?s=40&amp;v=4" width="20" height="20" alt="@jspisak" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=16107619" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/VictorSanh"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/16107619?s=40&amp;v=4" width="20" height="20" alt="@VictorSanh" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=23697994" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Molugan"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/23697994?s=40&amp;v=4" width="20" height="20" alt="@Molugan" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=14276147" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/harshildarji"><img class="avatar mb-1" src="https://avatars1.githubusercontent.com/u/14276147?s=40&amp;v=4" width="20" height="20" alt="@harshildarji" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=14369357" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/dynamitechetan"><img class="avatar mb-1" src="https://avatars1.githubusercontent.com/u/14369357?s=40&amp;v=4" width="20" height="20" alt="@dynamitechetan" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=23243382" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/christianbender"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/23243382?s=40&amp;v=4" width="20" height="20" alt="@christianbender" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=10573038" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/AnupKumarPanwar"><img class="avatar mb-1" src="https://avatars2.githubusercontent.com/u/10573038?s=40&amp;v=4" width="20" height="20" alt="@AnupKumarPanwar" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=17557934" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/daniel-s-ingram"><img class="avatar mb-1" src="https://avatars3.githubusercontent.com/u/17557934?s=40&amp;v=4" width="20" height="20" alt="@daniel-s-ingram" /></a>
         </span>
 
       <span class="d-inline-block float-sm-right">
         <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        142 stars today
+        157 stars today
       </span>
   </div>
 </li>
@@ -797,7 +797,7 @@
   </div>
 
   <div class="float-right">
-        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:186444371,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;857E:3D686:442AA80:6864328:5CFF7751&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f35b6b16b63ba824fd9b16622fa4864d23a22e750b66170d2720ee8b2d9949d9" href="/login?return_to=%2FConnorJL%2FGPT2">
+        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:186444371,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;E504:120DF:39B569:56CA9D:5CFFF75C&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5ee558f4402e5b6d9834b4db107d95bea8982a4a21810e774c356b115dd6884c" href="/login?return_to=%2FConnorJL%2FGPT2">
       <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
       Star
 </a>
@@ -819,37 +819,39 @@
 
       <a class="muted-link d-inline-block mr-3" href="/ConnorJL/GPT2/stargazers">
         <svg aria-label="star" class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        675
+        695
       </a>
 
       <a class="muted-link d-inline-block mr-3" href="/ConnorJL/GPT2/network/members">
         <svg aria-label="fork" class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" role="img"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-        151
+        161
       </a>
 
     
         <span class="d-inline-block mr-3">
           Built by
             <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=25487779" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/ConnorJL"><img class="avatar mb-1" src="https://avatars3.githubusercontent.com/u/25487779?s=40&amp;v=4" width="20" height="20" alt="@ConnorJL" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=27765" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/tbfly"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/27765?s=40&amp;v=4" width="20" height="20" alt="@tbfly" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=19208123" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Hongarc"><img class="avatar mb-1" src="https://avatars1.githubusercontent.com/u/19208123?s=40&amp;v=4" width="20" height="20" alt="@Hongarc" /></a>
         </span>
 
       <span class="d-inline-block float-sm-right">
         <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        130 stars today
+        92 stars today
       </span>
   </div>
 </li>
 
-              <li class="col-12 d-block width-full py-4 border-bottom" id="pa-football">
+              <li class="col-12 d-block width-full py-4 border-bottom" id="pa-text">
   <div class="d-inline-block col-9 mb-1">
     <h3>
-      <a href="/google-research/football">
-        <span class="text-normal">google-research / </span>football
+      <a href="/tensorflow/text">
+        <span class="text-normal">tensorflow / </span>text
 </a>    </h3>
   </div>
 
   <div class="float-right">
-        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:190005983,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;857E:3D686:442AA80:6864328:5CFF7751&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="30e16cb3a330eace5dc50587c6e5852175b5863895dd93364eb5a94dff4c3559" href="/login?return_to=%2Fgoogle-research%2Ffootball">
+        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:189305903,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;E504:120DF:39B569:56CA9D:5CFFF75C&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="271829643f4273fbbc16d132ebe0c7078dd9476090cbd6ef83a80531f1693c5d" href="/login?return_to=%2Ftensorflow%2Ftext">
       <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
       Star
 </a>
@@ -866,402 +868,29 @@
 </span>
 
 
-      <a class="muted-link d-inline-block mr-3" href="/google-research/football/stargazers">
+      <a class="muted-link d-inline-block mr-3" href="/tensorflow/text/stargazers">
         <svg aria-label="star" class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        618
+        111
       </a>
 
-      <a class="muted-link d-inline-block mr-3" href="/google-research/football/network/members">
+      <a class="muted-link d-inline-block mr-3" href="/tensorflow/text/network/members">
         <svg aria-label="fork" class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" role="img"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-        61
-      </a>
-
-    
-
-      <span class="d-inline-block float-sm-right">
-        <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        125 stars today
-      </span>
-  </div>
-</li>
-
-              <li class="col-12 d-block width-full py-4 border-bottom" id="pa-instagram-scraper">
-  <div class="d-inline-block col-9 mb-1">
-    <h3>
-      <a href="/realsirjoe/instagram-scraper">
-        <span class="text-normal">realsirjoe / </span>instagram-scraper
-</a>    </h3>
-  </div>
-
-  <div class="float-right">
-        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:191108343,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;857E:3D686:442AA80:6864328:5CFF7751&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ebda5dd22001240c0ea3949d0ba70fc43b3a86b4099e749992dd75999dc054dd" href="/login?return_to=%2Frealsirjoe%2Finstagram-scraper">
-      <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-      Star
-</a>
-
-  </div>
-
-  <div class="py-1">
-      <p class="col-9 d-inline-block text-gray m-0 pr-4">
-        scrapes medias, likes, followers, tags and all metadata. Inspired by instagram-php-scraper
-      </p>
-  </div>
-
-  <div class="f6 text-gray mt-2">
-      <span class="d-inline-block ml-0 mr-3">
-  <span class="repo-language-color" style="background-color: #3572A5"></span>
-  <span itemprop="programmingLanguage">Python</span>
-</span>
-
-
-      <a class="muted-link d-inline-block mr-3" href="/realsirjoe/instagram-scraper/stargazers">
-        <svg aria-label="star" class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        109
-      </a>
-
-      <a class="muted-link d-inline-block mr-3" href="/realsirjoe/instagram-scraper/network/members">
-        <svg aria-label="fork" class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" role="img"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-        4
+        11
       </a>
 
     
         <span class="d-inline-block mr-3">
           Built by
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=29454176" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/realsirjoe"><img class="avatar mb-1" src="https://avatars3.githubusercontent.com/u/29454176?s=40&amp;v=4" width="20" height="20" alt="@realsirjoe" /></a>
-        </span>
-
-      <span class="d-inline-block float-sm-right">
-        <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        104 stars today
-      </span>
-  </div>
-</li>
-
-              <li class="col-12 d-block width-full py-4 border-bottom" id="pa-mathAI">
-  <div class="d-inline-block col-9 mb-1">
-    <h3>
-      <a href="/Roujack/mathAI">
-        <span class="text-normal">Roujack / </span>mathAI
-</a>    </h3>
-  </div>
-
-  <div class="float-right">
-        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:152852652,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;857E:3D686:442AA80:6864328:5CFF7751&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c8d8b679ff99c136141f0706580d11dc4c08cc59822450553dd2d2b3c353eb00" href="/login?return_to=%2FRoujack%2FmathAI">
-      <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-      Star
-</a>
-
-  </div>
-
-  <div class="py-1">
-      <p class="col-9 d-inline-block text-gray m-0 pr-4">
-        一个拍照做题程序。输入一张包含数学计算题的图片，输出识别出的数学计算式以及计算结果。This is a mathematic expression recognition project.
-      </p>
-  </div>
-
-  <div class="f6 text-gray mt-2">
-      <span class="d-inline-block ml-0 mr-3">
-  <span class="repo-language-color" style="background-color: #3572A5"></span>
-  <span itemprop="programmingLanguage">Python</span>
-</span>
-
-
-      <a class="muted-link d-inline-block mr-3" href="/Roujack/mathAI/stargazers">
-        <svg aria-label="star" class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        900
-      </a>
-
-      <a class="muted-link d-inline-block mr-3" href="/Roujack/mathAI/network/members">
-        <svg aria-label="fork" class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" role="img"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-        247
-      </a>
-
-    
-        <span class="d-inline-block mr-3">
-          Built by
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=20369575" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Roujack"><img class="avatar mb-1" src="https://avatars2.githubusercontent.com/u/20369575?s=40&amp;v=4" width="20" height="20" alt="@Roujack" /></a>
-        </span>
-
-      <span class="d-inline-block float-sm-right">
-        <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        76 stars today
-      </span>
-  </div>
-</li>
-
-              <li class="col-12 d-block width-full py-4 border-bottom" id="pa-system-design-primer">
-  <div class="d-inline-block col-9 mb-1">
-    <h3>
-      <a href="/donnemartin/system-design-primer">
-        <span class="text-normal">donnemartin / </span>system-design-primer
-</a>    </h3>
-  </div>
-
-  <div class="float-right">
-        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:83222441,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;857E:3D686:442AA80:6864328:5CFF7751&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="607a76eca762646e68a3c3b81738d2f5c576304cb8225fbea076f376c4ab7263" href="/login?return_to=%2Fdonnemartin%2Fsystem-design-primer">
-      <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-      Star
-</a>
-
-  </div>
-
-  <div class="py-1">
-      <p class="col-9 d-inline-block text-gray m-0 pr-4">
-        Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-      </p>
-  </div>
-
-  <div class="f6 text-gray mt-2">
-      <span class="d-inline-block ml-0 mr-3">
-  <span class="repo-language-color" style="background-color: #3572A5"></span>
-  <span itemprop="programmingLanguage">Python</span>
-</span>
-
-
-      <a class="muted-link d-inline-block mr-3" href="/donnemartin/system-design-primer/stargazers">
-        <svg aria-label="star" class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        64,428
-      </a>
-
-      <a class="muted-link d-inline-block mr-3" href="/donnemartin/system-design-primer/network/members">
-        <svg aria-label="fork" class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" role="img"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-        9,877
-      </a>
-
-    
-        <span class="d-inline-block mr-3">
-          Built by
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=5458997" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/donnemartin"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/5458997?s=40&amp;v=4" width="20" height="20" alt="@donnemartin" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=7440735" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/fluency03"><img class="avatar mb-1" src="https://avatars3.githubusercontent.com/u/7440735?s=40&amp;v=4" width="20" height="20" alt="@fluency03" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=6084440" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/antongulikov"><img class="avatar mb-1" src="https://avatars1.githubusercontent.com/u/6084440?s=40&amp;v=4" width="20" height="20" alt="@antongulikov" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=8156463" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/fabriziocucci"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/8156463?s=40&amp;v=4" width="20" height="20" alt="@fabriziocucci" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=4631393" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/ianpark"><img class="avatar mb-1" src="https://avatars1.githubusercontent.com/u/4631393?s=40&amp;v=4" width="20" height="20" alt="@ianpark" /></a>
-        </span>
-
-      <span class="d-inline-block float-sm-right">
-        <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        66 stars today
-      </span>
-  </div>
-</li>
-
-              <li class="col-12 d-block width-full py-4 border-bottom" id="pa-examples-of-web-crawlers">
-  <div class="d-inline-block col-9 mb-1">
-    <h3>
-      <a href="/shengqiangzhang/examples-of-web-crawlers">
-        <span class="text-normal">shengqiangzhang / </span>examples-of-web-crawlers
-</a>    </h3>
-  </div>
-
-  <div class="float-right">
-        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:175366155,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;857E:3D686:442AA80:6864328:5CFF7751&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="791931cff80f5c3ad8a855eb4308d99f9f45970b2a7a979f445d550f7279890a" href="/login?return_to=%2Fshengqiangzhang%2Fexamples-of-web-crawlers">
-      <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-      Star
-</a>
-
-  </div>
-
-  <div class="py-1">
-      <p class="col-9 d-inline-block text-gray m-0 pr-4">
-        python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。
-      </p>
-  </div>
-
-  <div class="f6 text-gray mt-2">
-      <span class="d-inline-block ml-0 mr-3">
-  <span class="repo-language-color" style="background-color: #3572A5"></span>
-  <span itemprop="programmingLanguage">Python</span>
-</span>
-
-
-      <a class="muted-link d-inline-block mr-3" href="/shengqiangzhang/examples-of-web-crawlers/stargazers">
-        <svg aria-label="star" class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        2,027
-      </a>
-
-      <a class="muted-link d-inline-block mr-3" href="/shengqiangzhang/examples-of-web-crawlers/network/members">
-        <svg aria-label="fork" class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" role="img"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-        675
-      </a>
-
-    
-        <span class="d-inline-block mr-3">
-          Built by
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=28225826" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/shengqiangzhang"><img class="avatar mb-1" src="https://avatars2.githubusercontent.com/u/28225826?s=40&amp;v=4" width="20" height="20" alt="@shengqiangzhang" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=24363939" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/linguoquan13"><img class="avatar mb-1" src="https://avatars2.githubusercontent.com/u/24363939?s=40&amp;v=4" width="20" height="20" alt="@linguoquan13" /></a>
-        </span>
-
-      <span class="d-inline-block float-sm-right">
-        <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        62 stars today
-      </span>
-  </div>
-</li>
-
-              <li class="col-12 d-block width-full py-4 border-bottom" id="pa-models">
-  <div class="d-inline-block col-9 mb-1">
-    <h3>
-      <a href="/tensorflow/models">
-        <span class="text-normal">tensorflow / </span>models
-</a>    </h3>
-  </div>
-
-  <div class="float-right">
-        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:51117837,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;857E:3D686:442AA80:6864328:5CFF7751&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4c29cdda48af656139ccc0bf0504c6921bf5556836b5529f9ff73d2b3cc57fd1" href="/login?return_to=%2Ftensorflow%2Fmodels">
-      <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-      Star
-</a>
-
-  </div>
-
-  <div class="py-1">
-      <p class="col-9 d-inline-block text-gray m-0 pr-4">
-        Models and examples built with TensorFlow
-      </p>
-  </div>
-
-  <div class="f6 text-gray mt-2">
-      <span class="d-inline-block ml-0 mr-3">
-  <span class="repo-language-color" style="background-color: #3572A5"></span>
-  <span itemprop="programmingLanguage">Python</span>
-</span>
-
-
-      <a class="muted-link d-inline-block mr-3" href="/tensorflow/models/stargazers">
-        <svg aria-label="star" class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        53,862
-      </a>
-
-      <a class="muted-link d-inline-block mr-3" href="/tensorflow/models/network/members">
-        <svg aria-label="fork" class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" role="img"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-        33,428
-      </a>
-
-    
-        <span class="d-inline-block mr-3">
-          Built by
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=726075" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/nealwu"><img class="avatar mb-1" src="https://avatars2.githubusercontent.com/u/726075?s=40&amp;v=4" width="20" height="20" alt="@nealwu" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=34356" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/broken"><img class="avatar mb-1" src="https://avatars1.githubusercontent.com/u/34356?s=40&amp;v=4" width="20" height="20" alt="@broken" /></a>
             <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=1414837" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/MarkDaoust"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/1414837?s=40&amp;v=4" width="20" height="20" alt="@MarkDaoust" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=23486130" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/tfboyd"><img class="avatar mb-1" src="https://avatars2.githubusercontent.com/u/23486130?s=40&amp;v=4" width="20" height="20" alt="@tfboyd" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=35853368" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/pkulzc"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/35853368?s=40&amp;v=4" width="20" height="20" alt="@pkulzc" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=20667461" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/cshallue"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/20667461?s=40&amp;v=4" width="20" height="20" alt="@cshallue" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=18446705" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/raw-pointer"><img class="avatar mb-1" src="https://avatars3.githubusercontent.com/u/18446705?s=40&amp;v=4" width="20" height="20" alt="@raw-pointer" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=51217155" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/tf-text-github-robot"><img class="avatar mb-1" src="https://avatars2.githubusercontent.com/u/51217155?s=40&amp;v=4" width="20" height="20" alt="@tf-text-github-robot" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=556234" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/thuang513"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/556234?s=40&amp;v=4" width="20" height="20" alt="@thuang513" /></a>
         </span>
 
       <span class="d-inline-block float-sm-right">
         <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        56 stars today
-      </span>
-  </div>
-</li>
-
-              <li class="col-12 d-block width-full py-4 border-bottom" id="pa-hosts">
-  <div class="d-inline-block col-9 mb-1">
-    <h3>
-      <a href="/StevenBlack/hosts">
-        <span class="text-normal">StevenBlack / </span>hosts
-</a>    </h3>
-  </div>
-
-  <div class="float-right">
-        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:4008931,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;857E:3D686:442AA80:6864328:5CFF7751&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="9d775012a711886f326fe8e0b40636c11af6cdb8422a50e6f558f4c07d523178" href="/login?return_to=%2FStevenBlack%2Fhosts">
-      <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-      Star
-</a>
-
-  </div>
-
-  <div class="py-1">
-      <p class="col-9 d-inline-block text-gray m-0 pr-4">
-        Extending and consolidating hosts files from several well-curated sources like adaway.org, mvps.org, malwaredomainlist.com, someonewhocares.org, and potentially others. You can optionally invoke extensions to block additional sites by category. 
-      </p>
-  </div>
-
-  <div class="f6 text-gray mt-2">
-      <span class="d-inline-block ml-0 mr-3">
-  <span class="repo-language-color" style="background-color: #3572A5"></span>
-  <span itemprop="programmingLanguage">Python</span>
-</span>
-
-
-      <a class="muted-link d-inline-block mr-3" href="/StevenBlack/hosts/stargazers">
-        <svg aria-label="star" class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        12,821
-      </a>
-
-      <a class="muted-link d-inline-block mr-3" href="/StevenBlack/hosts/network/members">
-        <svg aria-label="fork" class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" role="img"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-        1,122
-      </a>
-
-    
-        <span class="d-inline-block mr-3">
-          Built by
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=80144" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/StevenBlack"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/80144?s=40&amp;v=4" width="20" height="20" alt="@StevenBlack" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=14127285" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/funilrys"><img class="avatar mb-1" src="https://avatars2.githubusercontent.com/u/14127285?s=40&amp;v=4" width="20" height="20" alt="@funilrys" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=9846948" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/FadeMind"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/9846948?s=40&amp;v=4" width="20" height="20" alt="@FadeMind" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=9273653" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/gfyoung"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/9273653?s=40&amp;v=4" width="20" height="20" alt="@gfyoung" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=26179946" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/anudeepND"><img class="avatar mb-1" src="https://avatars2.githubusercontent.com/u/26179946?s=40&amp;v=4" width="20" height="20" alt="@anudeepND" /></a>
-        </span>
-
-      <span class="d-inline-block float-sm-right">
-        <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        70 stars today
-      </span>
-  </div>
-</li>
-
-              <li class="col-12 d-block width-full py-4 border-bottom" id="pa-AiLearning">
-  <div class="d-inline-block col-9 mb-1">
-    <h3>
-      <a href="/apachecn/AiLearning">
-        <span class="text-normal">apachecn / </span>AiLearning
-</a>    </h3>
-  </div>
-
-  <div class="float-right">
-        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:83119431,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;857E:3D686:442AA80:6864328:5CFF7751&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ce04215a6ad25dce63dd9300eb3b5f8785e4e243116372c6a6530e85bd6308d3" href="/login?return_to=%2Fapachecn%2FAiLearning">
-      <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-      Star
-</a>
-
-  </div>
-
-  <div class="py-1">
-      <p class="col-9 d-inline-block text-gray m-0 pr-4">
-        AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
-      </p>
-  </div>
-
-  <div class="f6 text-gray mt-2">
-      <span class="d-inline-block ml-0 mr-3">
-  <span class="repo-language-color" style="background-color: #3572A5"></span>
-  <span itemprop="programmingLanguage">Python</span>
-</span>
-
-
-      <a class="muted-link d-inline-block mr-3" href="/apachecn/AiLearning/stargazers">
-        <svg aria-label="star" class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        15,108
-      </a>
-
-      <a class="muted-link d-inline-block mr-3" href="/apachecn/AiLearning/network/members">
-        <svg aria-label="fork" class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" role="img"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-        5,322
-      </a>
-
-    
-        <span class="d-inline-block mr-3">
-          Built by
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=9199175" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/jiangzhonglian"><img class="avatar mb-1" src="https://avatars2.githubusercontent.com/u/9199175?s=40&amp;v=4" width="20" height="20" alt="@jiangzhonglian" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=19797426" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/chenyyx"><img class="avatar mb-1" src="https://avatars3.githubusercontent.com/u/19797426?s=40&amp;v=4" width="20" height="20" alt="@chenyyx" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=16098658" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/DataMonk2017"><img class="avatar mb-1" src="https://avatars1.githubusercontent.com/u/16098658?s=40&amp;v=4" width="20" height="20" alt="@DataMonk2017" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=26565020" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/wangyangting"><img class="avatar mb-1" src="https://avatars1.githubusercontent.com/u/26565020?s=40&amp;v=4" width="20" height="20" alt="@wangyangting" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=28261876" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Lisanaaa"><img class="avatar mb-1" src="https://avatars1.githubusercontent.com/u/28261876?s=40&amp;v=4" width="20" height="20" alt="@Lisanaaa" /></a>
-        </span>
-
-      <span class="d-inline-block float-sm-right">
-        <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        57 stars today
+        97 stars today
       </span>
   </div>
 </li>
@@ -1275,7 +904,7 @@
   </div>
 
   <div class="float-right">
-        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:120768790,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;857E:3D686:442AA80:6864328:5CFF7751&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="cf09e451ad089a0e40e13b4d58fe983104cd456ca349eecdae6e43e5ee303004" href="/login?return_to=%2FOakwoodAI%2FAutomagica">
+        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:120768790,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;E504:120DF:39B569:56CA9D:5CFFF75C&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="1b1b719d4247f6f0d4277d614516fc830e9de5fb5f6ee570ec878bc194fe3341" href="/login?return_to=%2FOakwoodAI%2FAutomagica">
       <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
       Star
 </a>
@@ -1298,7 +927,7 @@
 
       <a class="muted-link d-inline-block mr-3" href="/OakwoodAI/Automagica/stargazers">
         <svg aria-label="star" class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        135
+        164
       </a>
 
       <a class="muted-link d-inline-block mr-3" href="/OakwoodAI/Automagica/network/members">
@@ -1311,25 +940,26 @@
           Built by
             <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=33032220" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/koenvaneijk"><img class="avatar mb-1" src="https://avatars1.githubusercontent.com/u/33032220?s=40&amp;v=4" width="20" height="20" alt="@koenvaneijk" /></a>
             <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=16676419" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/tvturnhout"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/16676419?s=40&amp;v=4" width="20" height="20" alt="@tvturnhout" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=2258619" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/audieleon"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/2258619?s=40&amp;v=4" width="20" height="20" alt="@audieleon" /></a>
         </span>
 
       <span class="d-inline-block float-sm-right">
         <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        60 stars today
+        97 stars today
       </span>
   </div>
 </li>
 
-              <li class="col-12 d-block width-full py-4 border-bottom" id="pa-keras">
+              <li class="col-12 d-block width-full py-4 border-bottom" id="pa-models">
   <div class="d-inline-block col-9 mb-1">
     <h3>
-      <a href="/keras-team/keras">
-        <span class="text-normal">keras-team / </span>keras
+      <a href="/tensorflow/models">
+        <span class="text-normal">tensorflow / </span>models
 </a>    </h3>
   </div>
 
   <div class="float-right">
-        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:33015583,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;857E:3D686:442AA80:6864328:5CFF7751&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="05e0f5e591c5328fc55a73313690ea2f275771933d8b1dc5dea3fe86565e4964" href="/login?return_to=%2Fkeras-team%2Fkeras">
+        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:51117837,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;E504:120DF:39B569:56CA9D:5CFFF75C&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="17b44545034c3777505e36d91abc46acb178ce871bca830687a82235d076a1c2" href="/login?return_to=%2Ftensorflow%2Fmodels">
       <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
       Star
 </a>
@@ -1338,7 +968,7 @@
 
   <div class="py-1">
       <p class="col-9 d-inline-block text-gray m-0 pr-4">
-        Deep Learning for humans
+        Models and examples built with TensorFlow
       </p>
   </div>
 
@@ -1349,43 +979,43 @@
 </span>
 
 
-      <a class="muted-link d-inline-block mr-3" href="/keras-team/keras/stargazers">
+      <a class="muted-link d-inline-block mr-3" href="/tensorflow/models/stargazers">
         <svg aria-label="star" class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        41,839
+        53,881
       </a>
 
-      <a class="muted-link d-inline-block mr-3" href="/keras-team/keras/network/members">
+      <a class="muted-link d-inline-block mr-3" href="/tensorflow/models/network/members">
         <svg aria-label="fork" class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" role="img"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-        15,955
+        33,444
       </a>
 
     
         <span class="d-inline-block mr-3">
           Built by
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=710255" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/fchollet"><img class="avatar mb-1" src="https://avatars2.githubusercontent.com/u/710255?s=40&amp;v=4" width="20" height="20" alt="@fchollet" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=11006006" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/farizrahman4u"><img class="avatar mb-1" src="https://avatars1.githubusercontent.com/u/11006006?s=40&amp;v=4" width="20" height="20" alt="@farizrahman4u" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=4445535" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/taehoonlee"><img class="avatar mb-1" src="https://avatars1.githubusercontent.com/u/4445535?s=40&amp;v=4" width="20" height="20" alt="@taehoonlee" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=12891691" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/gabrieldemarmiesse"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/12891691?s=40&amp;v=4" width="20" height="20" alt="@gabrieldemarmiesse" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=14060629" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/ozabluda"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/14060629?s=40&amp;v=4" width="20" height="20" alt="@ozabluda" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=726075" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/nealwu"><img class="avatar mb-1" src="https://avatars2.githubusercontent.com/u/726075?s=40&amp;v=4" width="20" height="20" alt="@nealwu" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=1414837" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/MarkDaoust"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/1414837?s=40&amp;v=4" width="20" height="20" alt="@MarkDaoust" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=23486130" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/tfboyd"><img class="avatar mb-1" src="https://avatars2.githubusercontent.com/u/23486130?s=40&amp;v=4" width="20" height="20" alt="@tfboyd" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=35853368" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/pkulzc"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/35853368?s=40&amp;v=4" width="20" height="20" alt="@pkulzc" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=20667461" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/cshallue"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/20667461?s=40&amp;v=4" width="20" height="20" alt="@cshallue" /></a>
         </span>
 
       <span class="d-inline-block float-sm-right">
         <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        51 stars today
+        63 stars today
       </span>
   </div>
 </li>
 
-              <li class="col-12 d-block width-full py-4 border-bottom" id="pa-text">
+              <li class="col-12 d-block width-full py-4 border-bottom" id="pa-football">
   <div class="d-inline-block col-9 mb-1">
     <h3>
-      <a href="/tensorflow/text">
-        <span class="text-normal">tensorflow / </span>text
+      <a href="/google-research/football">
+        <span class="text-normal">google-research / </span>football
 </a>    </h3>
   </div>
 
   <div class="float-right">
-        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:189305903,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;857E:3D686:442AA80:6864328:5CFF7751&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ac6ee08938c45c689d1bda1dca5f5885e0f2f837d8955e278d83317d777329b0" href="/login?return_to=%2Ftensorflow%2Ftext">
+        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:190005983,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;E504:120DF:39B569:56CA9D:5CFFF75C&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="144daf2ef9fc9e548cbac6b43ac0a8e505aa39edf2d082a19e9d13abf7c02389" href="/login?return_to=%2Fgoogle-research%2Ffootball">
       <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
       Star
 </a>
@@ -1402,29 +1032,241 @@
 </span>
 
 
-      <a class="muted-link d-inline-block mr-3" href="/tensorflow/text/stargazers">
+      <a class="muted-link d-inline-block mr-3" href="/google-research/football/stargazers">
         <svg aria-label="star" class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        68
+        638
       </a>
 
-      <a class="muted-link d-inline-block mr-3" href="/tensorflow/text/network/members">
+      <a class="muted-link d-inline-block mr-3" href="/google-research/football/network/members">
         <svg aria-label="fork" class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" role="img"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-        7
+        66
+      </a>
+
+    
+
+      <span class="d-inline-block float-sm-right">
+        <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+        72 stars today
+      </span>
+  </div>
+</li>
+
+              <li class="col-12 d-block width-full py-4 border-bottom" id="pa-hosts">
+  <div class="d-inline-block col-9 mb-1">
+    <h3>
+      <a href="/StevenBlack/hosts">
+        <span class="text-normal">StevenBlack / </span>hosts
+</a>    </h3>
+  </div>
+
+  <div class="float-right">
+        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:4008931,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;E504:120DF:39B569:56CA9D:5CFFF75C&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="bb027935101e6f6ecf79978aaa03507bdce286a11bd86234fd6267f1baf96dbf" href="/login?return_to=%2FStevenBlack%2Fhosts">
+      <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      Star
+</a>
+
+  </div>
+
+  <div class="py-1">
+      <p class="col-9 d-inline-block text-gray m-0 pr-4">
+        Extending and consolidating hosts files from several well-curated sources like adaway.org, mvps.org, malwaredomainlist.com, someonewhocares.org, and potentially others. You can optionally invoke extensions to block additional sites by category. 
+      </p>
+  </div>
+
+  <div class="f6 text-gray mt-2">
+      <span class="d-inline-block ml-0 mr-3">
+  <span class="repo-language-color" style="background-color: #3572A5"></span>
+  <span itemprop="programmingLanguage">Python</span>
+</span>
+
+
+      <a class="muted-link d-inline-block mr-3" href="/StevenBlack/hosts/stargazers">
+        <svg aria-label="star" class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+        12,826
+      </a>
+
+      <a class="muted-link d-inline-block mr-3" href="/StevenBlack/hosts/network/members">
+        <svg aria-label="fork" class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" role="img"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+        1,123
       </a>
 
     
         <span class="d-inline-block mr-3">
           Built by
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=34356" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/broken"><img class="avatar mb-1" src="https://avatars1.githubusercontent.com/u/34356?s=40&amp;v=4" width="20" height="20" alt="@broken" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=1414837" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/MarkDaoust"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/1414837?s=40&amp;v=4" width="20" height="20" alt="@MarkDaoust" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=18446705" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/raw-pointer"><img class="avatar mb-1" src="https://avatars3.githubusercontent.com/u/18446705?s=40&amp;v=4" width="20" height="20" alt="@raw-pointer" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=51217155" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/tf-text-github-robot"><img class="avatar mb-1" src="https://avatars2.githubusercontent.com/u/51217155?s=40&amp;v=4" width="20" height="20" alt="@tf-text-github-robot" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=556234" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/thuang513"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/556234?s=40&amp;v=4" width="20" height="20" alt="@thuang513" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=80144" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/StevenBlack"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/80144?s=40&amp;v=4" width="20" height="20" alt="@StevenBlack" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=14127285" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/funilrys"><img class="avatar mb-1" src="https://avatars2.githubusercontent.com/u/14127285?s=40&amp;v=4" width="20" height="20" alt="@funilrys" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=9846948" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/FadeMind"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/9846948?s=40&amp;v=4" width="20" height="20" alt="@FadeMind" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=9273653" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/gfyoung"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/9273653?s=40&amp;v=4" width="20" height="20" alt="@gfyoung" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=26179946" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/anudeepND"><img class="avatar mb-1" src="https://avatars2.githubusercontent.com/u/26179946?s=40&amp;v=4" width="20" height="20" alt="@anudeepND" /></a>
         </span>
 
       <span class="d-inline-block float-sm-right">
         <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        52 stars today
+        72 stars today
+      </span>
+  </div>
+</li>
+
+              <li class="col-12 d-block width-full py-4 border-bottom" id="pa-mathAI">
+  <div class="d-inline-block col-9 mb-1">
+    <h3>
+      <a href="/Roujack/mathAI">
+        <span class="text-normal">Roujack / </span>mathAI
+</a>    </h3>
+  </div>
+
+  <div class="float-right">
+        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:152852652,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;E504:120DF:39B569:56CA9D:5CFFF75C&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="2f205a08cb7abaf40a22b4812ef349b2b1cccb6022897ea7d3d8edf2295e6219" href="/login?return_to=%2FRoujack%2FmathAI">
+      <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      Star
+</a>
+
+  </div>
+
+  <div class="py-1">
+      <p class="col-9 d-inline-block text-gray m-0 pr-4">
+        一个拍照做题程序。输入一张包含数学计算题的图片，输出识别出的数学计算式以及计算结果。This is a mathematic expression recognition project.
+      </p>
+  </div>
+
+  <div class="f6 text-gray mt-2">
+      <span class="d-inline-block ml-0 mr-3">
+  <span class="repo-language-color" style="background-color: #3572A5"></span>
+  <span itemprop="programmingLanguage">Python</span>
+</span>
+
+
+      <a class="muted-link d-inline-block mr-3" href="/Roujack/mathAI/stargazers">
+        <svg aria-label="star" class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+        929
+      </a>
+
+      <a class="muted-link d-inline-block mr-3" href="/Roujack/mathAI/network/members">
+        <svg aria-label="fork" class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" role="img"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+        250
+      </a>
+
+    
+        <span class="d-inline-block mr-3">
+          Built by
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=20369575" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Roujack"><img class="avatar mb-1" src="https://avatars2.githubusercontent.com/u/20369575?s=40&amp;v=4" width="20" height="20" alt="@Roujack" /></a>
+        </span>
+
+      <span class="d-inline-block float-sm-right">
+        <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+        64 stars today
+      </span>
+  </div>
+</li>
+
+              <li class="col-12 d-block width-full py-4 border-bottom" id="pa-AiLearning">
+  <div class="d-inline-block col-9 mb-1">
+    <h3>
+      <a href="/apachecn/AiLearning">
+        <span class="text-normal">apachecn / </span>AiLearning
+</a>    </h3>
+  </div>
+
+  <div class="float-right">
+        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:83119431,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;E504:120DF:39B569:56CA9D:5CFFF75C&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c05b45d74748691a1513892019cff84f957397c9d1dd9813e2e5134a40f4b522" href="/login?return_to=%2Fapachecn%2FAiLearning">
+      <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      Star
+</a>
+
+  </div>
+
+  <div class="py-1">
+      <p class="col-9 d-inline-block text-gray m-0 pr-4">
+        AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
+      </p>
+  </div>
+
+  <div class="f6 text-gray mt-2">
+      <span class="d-inline-block ml-0 mr-3">
+  <span class="repo-language-color" style="background-color: #3572A5"></span>
+  <span itemprop="programmingLanguage">Python</span>
+</span>
+
+
+      <a class="muted-link d-inline-block mr-3" href="/apachecn/AiLearning/stargazers">
+        <svg aria-label="star" class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+        15,121
+      </a>
+
+      <a class="muted-link d-inline-block mr-3" href="/apachecn/AiLearning/network/members">
+        <svg aria-label="fork" class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" role="img"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+        5,328
+      </a>
+
+    
+        <span class="d-inline-block mr-3">
+          Built by
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=9199175" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/jiangzhonglian"><img class="avatar mb-1" src="https://avatars2.githubusercontent.com/u/9199175?s=40&amp;v=4" width="20" height="20" alt="@jiangzhonglian" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=19797426" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/chenyyx"><img class="avatar mb-1" src="https://avatars3.githubusercontent.com/u/19797426?s=40&amp;v=4" width="20" height="20" alt="@chenyyx" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=16098658" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/DataMonk2017"><img class="avatar mb-1" src="https://avatars1.githubusercontent.com/u/16098658?s=40&amp;v=4" width="20" height="20" alt="@DataMonk2017" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=26565020" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/wangyangting"><img class="avatar mb-1" src="https://avatars1.githubusercontent.com/u/26565020?s=40&amp;v=4" width="20" height="20" alt="@wangyangting" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=28261876" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Lisanaaa"><img class="avatar mb-1" src="https://avatars1.githubusercontent.com/u/28261876?s=40&amp;v=4" width="20" height="20" alt="@Lisanaaa" /></a>
+        </span>
+
+      <span class="d-inline-block float-sm-right">
+        <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+        55 stars today
+      </span>
+  </div>
+</li>
+
+              <li class="col-12 d-block width-full py-4 border-bottom" id="pa-system-design-primer">
+  <div class="d-inline-block col-9 mb-1">
+    <h3>
+      <a href="/donnemartin/system-design-primer">
+        <span class="text-normal">donnemartin / </span>system-design-primer
+</a>    </h3>
+  </div>
+
+  <div class="float-right">
+        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:83222441,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;E504:120DF:39B569:56CA9D:5CFFF75C&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="1fd26ccc7a7e8f1122cac9be18176bcf9e0a3f8e28346ffc852ead75c18382c6" href="/login?return_to=%2Fdonnemartin%2Fsystem-design-primer">
+      <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      Star
+</a>
+
+  </div>
+
+  <div class="py-1">
+      <p class="col-9 d-inline-block text-gray m-0 pr-4">
+        Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+      </p>
+  </div>
+
+  <div class="f6 text-gray mt-2">
+      <span class="d-inline-block ml-0 mr-3">
+  <span class="repo-language-color" style="background-color: #3572A5"></span>
+  <span itemprop="programmingLanguage">Python</span>
+</span>
+
+
+      <a class="muted-link d-inline-block mr-3" href="/donnemartin/system-design-primer/stargazers">
+        <svg aria-label="star" class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+        64,442
+      </a>
+
+      <a class="muted-link d-inline-block mr-3" href="/donnemartin/system-design-primer/network/members">
+        <svg aria-label="fork" class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" role="img"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+        9,884
+      </a>
+
+    
+        <span class="d-inline-block mr-3">
+          Built by
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=5458997" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/donnemartin"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/5458997?s=40&amp;v=4" width="20" height="20" alt="@donnemartin" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=7440735" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/fluency03"><img class="avatar mb-1" src="https://avatars3.githubusercontent.com/u/7440735?s=40&amp;v=4" width="20" height="20" alt="@fluency03" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=6084440" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/antongulikov"><img class="avatar mb-1" src="https://avatars1.githubusercontent.com/u/6084440?s=40&amp;v=4" width="20" height="20" alt="@antongulikov" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=8156463" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/fabriziocucci"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/8156463?s=40&amp;v=4" width="20" height="20" alt="@fabriziocucci" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=4631393" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/ianpark"><img class="avatar mb-1" src="https://avatars1.githubusercontent.com/u/4631393?s=40&amp;v=4" width="20" height="20" alt="@ianpark" /></a>
+        </span>
+
+      <span class="d-inline-block float-sm-right">
+        <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+        55 stars today
       </span>
   </div>
 </li>
@@ -1438,7 +1280,7 @@
   </div>
 
   <div class="float-right">
-        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:21289110,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;857E:3D686:442AA80:6864328:5CFF7751&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="705cf6720bc753cfa5f3eef481902588a75f3905a9ed15821ceba98696b918f5" href="/login?return_to=%2Fvinta%2Fawesome-python">
+        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:21289110,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;E504:120DF:39B569:56CA9D:5CFFF75C&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7b88cdef80145727f3757d794c3e0fcc3d5722cc9b416f5d9bdc8f091e05e59d" href="/login?return_to=%2Fvinta%2Fawesome-python">
       <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
       Star
 </a>
@@ -1460,12 +1302,12 @@
 
       <a class="muted-link d-inline-block mr-3" href="/vinta/awesome-python/stargazers">
         <svg aria-label="star" class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        68,487
+        68,509
       </a>
 
       <a class="muted-link d-inline-block mr-3" href="/vinta/awesome-python/network/members">
         <svg aria-label="fork" class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" role="img"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-        13,317
+        13,320
       </a>
 
     
@@ -1480,7 +1322,119 @@
 
       <span class="d-inline-block float-sm-right">
         <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        50 stars today
+        52 stars today
+      </span>
+  </div>
+</li>
+
+              <li class="col-12 d-block width-full py-4 border-bottom" id="pa-public-apis">
+  <div class="d-inline-block col-9 mb-1">
+    <h3>
+      <a href="/public-apis/public-apis">
+        <span class="text-normal">public-apis / </span>public-apis
+</a>    </h3>
+  </div>
+
+  <div class="float-right">
+        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:54346799,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;E504:120DF:39B569:56CA9D:5CFFF75C&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="1a7860739999f13a0342b2f503a10784956df4f4f55ce8ace50d4675c09510e3" href="/login?return_to=%2Fpublic-apis%2Fpublic-apis">
+      <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      Star
+</a>
+
+  </div>
+
+  <div class="py-1">
+      <p class="col-9 d-inline-block text-gray m-0 pr-4">
+        A collective list of free APIs for use in software and web development.
+      </p>
+  </div>
+
+  <div class="f6 text-gray mt-2">
+      <span class="d-inline-block ml-0 mr-3">
+  <span class="repo-language-color" style="background-color: #3572A5"></span>
+  <span itemprop="programmingLanguage">Python</span>
+</span>
+
+
+      <a class="muted-link d-inline-block mr-3" href="/public-apis/public-apis/stargazers">
+        <svg aria-label="star" class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+        57,986
+      </a>
+
+      <a class="muted-link d-inline-block mr-3" href="/public-apis/public-apis/network/members">
+        <svg aria-label="fork" class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" role="img"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+        6,064
+      </a>
+
+    
+        <span class="d-inline-block mr-3">
+          Built by
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=15134885" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/davemachado"><img class="avatar mb-1" src="https://avatars2.githubusercontent.com/u/15134885?s=40&amp;v=4" width="20" height="20" alt="@davemachado" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=354085" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/mikestreety"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/354085?s=40&amp;v=4" width="20" height="20" alt="@mikestreety" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=246103" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/jbrooksuk"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/246103?s=40&amp;v=4" width="20" height="20" alt="@jbrooksuk" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=1655968" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/toddmotto"><img class="avatar mb-1" src="https://avatars3.githubusercontent.com/u/1655968?s=40&amp;v=4" width="20" height="20" alt="@toddmotto" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=176013" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/wesbos"><img class="avatar mb-1" src="https://avatars1.githubusercontent.com/u/176013?s=40&amp;v=4" width="20" height="20" alt="@wesbos" /></a>
+        </span>
+
+      <span class="d-inline-block float-sm-right">
+        <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+        48 stars today
+      </span>
+  </div>
+</li>
+
+              <li class="col-12 d-block width-full py-4 border-bottom" id="pa-kedro">
+  <div class="d-inline-block col-9 mb-1">
+    <h3>
+      <a href="/quantumblacklabs/kedro">
+        <span class="text-normal">quantumblacklabs / </span>kedro
+</a>    </h3>
+  </div>
+
+  <div class="float-right">
+        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:182067506,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;E504:120DF:39B569:56CA9D:5CFFF75C&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="fd2be3f5d539d0956efe58b31473f3b78134d82cc333c0513ab99ebfcc0d62c1" href="/login?return_to=%2Fquantumblacklabs%2Fkedro">
+      <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      Star
+</a>
+
+  </div>
+
+  <div class="py-1">
+      <p class="col-9 d-inline-block text-gray m-0 pr-4">
+        A Python library for building robust production-ready data and analytics pipelines
+      </p>
+  </div>
+
+  <div class="f6 text-gray mt-2">
+      <span class="d-inline-block ml-0 mr-3">
+  <span class="repo-language-color" style="background-color: #3572A5"></span>
+  <span itemprop="programmingLanguage">Python</span>
+</span>
+
+
+      <a class="muted-link d-inline-block mr-3" href="/quantumblacklabs/kedro/stargazers">
+        <svg aria-label="star" class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+        920
+      </a>
+
+      <a class="muted-link d-inline-block mr-3" href="/quantumblacklabs/kedro/network/members">
+        <svg aria-label="fork" class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" role="img"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+        55
+      </a>
+
+    
+        <span class="d-inline-block mr-3">
+          Built by
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=8168519" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/nakhan98"><img class="avatar mb-1" src="https://avatars2.githubusercontent.com/u/8168519?s=40&amp;v=4" width="20" height="20" alt="@nakhan98" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=805072" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/tolomea"><img class="avatar mb-1" src="https://avatars1.githubusercontent.com/u/805072?s=40&amp;v=4" width="20" height="20" alt="@tolomea" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=3808292" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/tsanikgr"><img class="avatar mb-1" src="https://avatars3.githubusercontent.com/u/3808292?s=40&amp;v=4" width="20" height="20" alt="@tsanikgr" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=48984996" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/LorenaBalanQB"><img class="avatar mb-1" src="https://avatars1.githubusercontent.com/u/48984996?s=40&amp;v=4" width="20" height="20" alt="@LorenaBalanQB" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=44967953" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/DmitriiDeriabinQB"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/44967953?s=40&amp;v=4" width="20" height="20" alt="@DmitriiDeriabinQB" /></a>
+        </span>
+
+      <span class="d-inline-block float-sm-right">
+        <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+        51 stars today
       </span>
   </div>
 </li>
@@ -1494,7 +1448,7 @@
   </div>
 
   <div class="float-right">
-        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:150058902,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;857E:3D686:442AA80:6864328:5CFF7751&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d176d0a6156ff4625b18a822b70bdf62e272efa1a9bce7a5d6a4515228ad815f" href="/login?return_to=%2Fwangzheng0822%2Falgo">
+        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:150058902,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;E504:120DF:39B569:56CA9D:5CFFF75C&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="fd5e62ce054ffbd5edd47b1c3125056f2c4ff2a69600284899c415861fd5aa20" href="/login?return_to=%2Fwangzheng0822%2Falgo">
       <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
       Star
 </a>
@@ -1516,12 +1470,12 @@
 
       <a class="muted-link d-inline-block mr-3" href="/wangzheng0822/algo/stargazers">
         <svg aria-label="star" class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        7,082
+        7,096
       </a>
 
       <a class="muted-link d-inline-block mr-3" href="/wangzheng0822/algo/network/members">
         <svg aria-label="fork" class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" role="img"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-        2,024
+        2,030
       </a>
 
     
@@ -1536,7 +1490,7 @@
 
       <span class="d-inline-block float-sm-right">
         <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        48 stars today
+        43 stars today
       </span>
   </div>
 </li>
@@ -1550,7 +1504,7 @@
   </div>
 
   <div class="float-right">
-        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:154747577,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;857E:3D686:442AA80:6864328:5CFF7751&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="1bdf44154cbe30c3a46054e0717772c78fc73e930580b7c8ccb2ffff83ca7a1c" href="/login?return_to=%2Fgoogle-research%2Fbert">
+        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:154747577,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;E504:120DF:39B569:56CA9D:5CFFF75C&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4c213e7560a7d70f35b176bb07be53c0dcac47ac0245d561175ae2ea96758c97" href="/login?return_to=%2Fgoogle-research%2Fbert">
       <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
       Star
 </a>
@@ -1572,12 +1526,12 @@
 
       <a class="muted-link d-inline-block mr-3" href="/google-research/bert/stargazers">
         <svg aria-label="star" class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        15,608
+        15,621
       </a>
 
       <a class="muted-link d-inline-block mr-3" href="/google-research/bert/network/members">
         <svg aria-label="fork" class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" role="img"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-        3,772
+        3,779
       </a>
 
     
@@ -1592,7 +1546,63 @@
 
       <span class="d-inline-block float-sm-right">
         <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        47 stars today
+        42 stars today
+      </span>
+  </div>
+</li>
+
+              <li class="col-12 d-block width-full py-4 border-bottom" id="pa-django">
+  <div class="d-inline-block col-9 mb-1">
+    <h3>
+      <a href="/django/django">
+        <span class="text-normal">django / </span>django
+</a>    </h3>
+  </div>
+
+  <div class="float-right">
+        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:4164482,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;E504:120DF:39B569:56CA9D:5CFFF75C&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="129cd0f9c58267679e8b67ed1a17e03438896c7334d84588355a7a7bd22e9b48" href="/login?return_to=%2Fdjango%2Fdjango">
+      <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      Star
+</a>
+
+  </div>
+
+  <div class="py-1">
+      <p class="col-9 d-inline-block text-gray m-0 pr-4">
+        The Web framework for perfectionists with deadlines.
+      </p>
+  </div>
+
+  <div class="f6 text-gray mt-2">
+      <span class="d-inline-block ml-0 mr-3">
+  <span class="repo-language-color" style="background-color: #3572A5"></span>
+  <span itemprop="programmingLanguage">Python</span>
+</span>
+
+
+      <a class="muted-link d-inline-block mr-3" href="/django/django/stargazers">
+        <svg aria-label="star" class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+        42,103
+      </a>
+
+      <a class="muted-link d-inline-block mr-3" href="/django/django/network/members">
+        <svg aria-label="fork" class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" role="img"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+        18,112
+      </a>
+
+    
+        <span class="d-inline-block mr-3">
+          Built by
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=411869" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/timgraham"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/411869?s=40&amp;v=4" width="20" height="20" alt="@timgraham" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=180401" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/adrianholovaty"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/180401?s=40&amp;v=4" width="20" height="20" alt="@adrianholovaty" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=6923" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/malcolmt"><img class="avatar mb-1" src="https://avatars2.githubusercontent.com/u/6923?s=40&amp;v=4" width="20" height="20" alt="@malcolmt" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=37345" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/freakboy3742"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/37345?s=40&amp;v=4" width="20" height="20" alt="@freakboy3742" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=143192" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/claudep"><img class="avatar mb-1" src="https://avatars1.githubusercontent.com/u/143192?s=40&amp;v=4" width="20" height="20" alt="@claudep" /></a>
+        </span>
+
+      <span class="d-inline-block float-sm-right">
+        <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+        38 stars today
       </span>
   </div>
 </li>
@@ -1606,7 +1616,7 @@
   </div>
 
   <div class="float-right">
-        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:170777132,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;857E:3D686:442AA80:6864328:5CFF7751&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="32026d98d7740e55dc412498d2f3e6c74fb110181bf611135249ece72928fe76" href="/login?return_to=%2Fmachinelearningmindset%2Fmachine-learning-course">
+        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:170777132,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;E504:120DF:39B569:56CA9D:5CFFF75C&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="fe96e238483e0cb77a821ab242b576bf0355cc69ccfb6cc827c6c21caac6ba75" href="/login?return_to=%2Fmachinelearningmindset%2Fmachine-learning-course">
       <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
       Star
 </a>
@@ -1629,12 +1639,12 @@
 
       <a class="muted-link d-inline-block mr-3" href="/machinelearningmindset/machine-learning-course/stargazers">
         <svg aria-label="star" class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        5,301
+        5,318
       </a>
 
       <a class="muted-link d-inline-block mr-3" href="/machinelearningmindset/machine-learning-course/network/members">
         <svg aria-label="fork" class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" role="img"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-        751
+        752
       </a>
 
     
@@ -1649,21 +1659,21 @@
 
       <span class="d-inline-block float-sm-right">
         <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        49 stars today
+        43 stars today
       </span>
   </div>
 </li>
 
-              <li class="col-12 d-block width-full py-4 border-bottom" id="pa-ProtonDB-to-Steam-Library">
+              <li class="col-12 d-block width-full py-4 border-bottom" id="pa-examples-of-web-crawlers">
   <div class="d-inline-block col-9 mb-1">
     <h3>
-      <a href="/CorruptComputer/ProtonDB-to-Steam-Library">
-        <span class="text-normal">CorruptComputer / </span>ProtonDB-to-Steam-Library
+      <a href="/shengqiangzhang/examples-of-web-crawlers">
+        <span class="text-normal">shengqiangzhang / </span>examples-of-web-crawlers
 </a>    </h3>
   </div>
 
   <div class="float-right">
-        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:190663326,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;857E:3D686:442AA80:6864328:5CFF7751&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="eb9a775d3aa754b1bb8f5c086cdeab7c5d621a24304e544dc8c56cf75f5d9509" href="/login?return_to=%2FCorruptComputer%2FProtonDB-to-Steam-Library">
+        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:175366155,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;E504:120DF:39B569:56CA9D:5CFFF75C&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="22a0d679d1d3d162862e1f65697b583a0252b2ab40d9a786b05d5a863b241be0" href="/login?return_to=%2Fshengqiangzhang%2Fexamples-of-web-crawlers">
       <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
       Star
 </a>
@@ -1672,7 +1682,7 @@
 
   <div class="py-1">
       <p class="col-9 d-inline-block text-gray m-0 pr-4">
-        Pull ratings from ProtonDB and import them into your Steam library as tags.
+        python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。
       </p>
   </div>
 
@@ -1683,42 +1693,40 @@
 </span>
 
 
-      <a class="muted-link d-inline-block mr-3" href="/CorruptComputer/ProtonDB-to-Steam-Library/stargazers">
+      <a class="muted-link d-inline-block mr-3" href="/shengqiangzhang/examples-of-web-crawlers/stargazers">
         <svg aria-label="star" class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        59
+        2,038
       </a>
 
-      <a class="muted-link d-inline-block mr-3" href="/CorruptComputer/ProtonDB-to-Steam-Library/network/members">
+      <a class="muted-link d-inline-block mr-3" href="/shengqiangzhang/examples-of-web-crawlers/network/members">
         <svg aria-label="fork" class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" role="img"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-        5
+        680
       </a>
 
     
         <span class="d-inline-block mr-3">
           Built by
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=5573038" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/CorruptComputer"><img class="avatar mb-1" src="https://avatars2.githubusercontent.com/u/5573038?s=40&amp;v=4" width="20" height="20" alt="@CorruptComputer" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=20385973" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Scotsguy"><img class="avatar mb-1" src="https://avatars3.githubusercontent.com/u/20385973?s=40&amp;v=4" width="20" height="20" alt="@Scotsguy" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=6586275" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/dabura667"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/6586275?s=40&amp;v=4" width="20" height="20" alt="@dabura667" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=15870933" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/indykoning"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/15870933?s=40&amp;v=4" width="20" height="20" alt="@indykoning" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=28225826" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/shengqiangzhang"><img class="avatar mb-1" src="https://avatars2.githubusercontent.com/u/28225826?s=40&amp;v=4" width="20" height="20" alt="@shengqiangzhang" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=24363939" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/linguoquan13"><img class="avatar mb-1" src="https://avatars2.githubusercontent.com/u/24363939?s=40&amp;v=4" width="20" height="20" alt="@linguoquan13" /></a>
         </span>
 
       <span class="d-inline-block float-sm-right">
         <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        47 stars today
+        38 stars today
       </span>
   </div>
 </li>
 
-              <li class="col-12 d-block width-full py-4 border-bottom" id="pa-EverydayWechat">
+              <li class="col-12 d-block width-full py-4 border-bottom" id="pa-youtube-dl">
   <div class="d-inline-block col-9 mb-1">
     <h3>
-      <a href="/likaixiang/EverydayWechat">
-        <span class="text-normal">likaixiang / </span>EverydayWechat
+      <a href="/ytdl-org/youtube-dl">
+        <span class="text-normal">ytdl-org / </span>youtube-dl
 </a>    </h3>
   </div>
 
   <div class="float-right">
-        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:187805426,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;857E:3D686:442AA80:6864328:5CFF7751&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7a302b5052a54af942802eb3d446685ba5f1319baa0e91196e42bcd0d69c4e98" href="/login?return_to=%2Flikaixiang%2FEverydayWechat">
+        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1039520,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;E504:120DF:39B569:56CA9D:5CFFF75C&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="183f04c90486016dd25ff9656df7e6b256b064ffb0c766d2d0feda5a49b7dd9f" href="/login?return_to=%2Fytdl-org%2Fyoutube-dl">
       <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
       Star
 </a>
@@ -1727,7 +1735,7 @@
 
   <div class="py-1">
       <p class="col-9 d-inline-block text-gray m-0 pr-4">
-        每日自动给女朋友发微信暖心话。
+        Command-line program to download videos from YouTube.com and other video sites
       </p>
   </div>
 
@@ -1738,40 +1746,43 @@
 </span>
 
 
-      <a class="muted-link d-inline-block mr-3" href="/likaixiang/EverydayWechat/stargazers">
+      <a class="muted-link d-inline-block mr-3" href="/ytdl-org/youtube-dl/stargazers">
         <svg aria-label="star" class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        120
+        51,379
       </a>
 
-      <a class="muted-link d-inline-block mr-3" href="/likaixiang/EverydayWechat/network/members">
+      <a class="muted-link d-inline-block mr-3" href="/ytdl-org/youtube-dl/network/members">
         <svg aria-label="fork" class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" role="img"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-        411
+        8,921
       </a>
 
     
         <span class="d-inline-block mr-3">
           Built by
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=7067207" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/sfyc23"><img class="avatar mb-1" src="https://avatars1.githubusercontent.com/u/7067207?s=40&amp;v=4" width="20" height="20" alt="@sfyc23" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=34767377" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/OnlyTre"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/34767377?s=40&amp;v=4" width="20" height="20" alt="@OnlyTre" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=1908898" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/dstftw"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/1908898?s=40&amp;v=4" width="20" height="20" alt="@dstftw" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=779568" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/phihag"><img class="avatar mb-1" src="https://avatars2.githubusercontent.com/u/779568?s=40&amp;v=4" width="20" height="20" alt="@phihag" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=1239727" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/jaimeMF"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/1239727?s=40&amp;v=4" width="20" height="20" alt="@jaimeMF" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=1937689" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/yan12125"><img class="avatar mb-1" src="https://avatars2.githubusercontent.com/u/1937689?s=40&amp;v=4" width="20" height="20" alt="@yan12125" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=10879694" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/remitamine"><img class="avatar mb-1" src="https://avatars2.githubusercontent.com/u/10879694?s=40&amp;v=4" width="20" height="20" alt="@remitamine" /></a>
         </span>
 
       <span class="d-inline-block float-sm-right">
         <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        39 stars today
+        40 stars today
       </span>
   </div>
 </li>
 
-              <li class="col-12 d-block width-full py-4 border-bottom" id="pa-kedro">
+              <li class="col-12 d-block width-full py-4 border-bottom" id="pa-keras">
   <div class="d-inline-block col-9 mb-1">
     <h3>
-      <a href="/quantumblacklabs/kedro">
-        <span class="text-normal">quantumblacklabs / </span>kedro
+      <a href="/keras-team/keras">
+        <span class="text-normal">keras-team / </span>keras
 </a>    </h3>
   </div>
 
   <div class="float-right">
-        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:182067506,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;857E:3D686:442AA80:6864328:5CFF7751&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="89cbbff07ab7bb9925bc3cf7511d8d0d8c746b08ab49e7550c1c5c6102bba12a" href="/login?return_to=%2Fquantumblacklabs%2Fkedro">
+        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:33015583,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;E504:120DF:39B569:56CA9D:5CFFF75C&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7c212af231556e41a833ab212d6a97b92cf4f86c04f05f1bec2cb13f164fd22a" href="/login?return_to=%2Fkeras-team%2Fkeras">
       <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
       Star
 </a>
@@ -1780,7 +1791,7 @@
 
   <div class="py-1">
       <p class="col-9 d-inline-block text-gray m-0 pr-4">
-        A Python library for building robust production-ready data and analytics pipelines
+        Deep Learning for humans
       </p>
   </div>
 
@@ -1791,43 +1802,43 @@
 </span>
 
 
-      <a class="muted-link d-inline-block mr-3" href="/quantumblacklabs/kedro/stargazers">
+      <a class="muted-link d-inline-block mr-3" href="/keras-team/keras/stargazers">
         <svg aria-label="star" class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        890
+        41,851
       </a>
 
-      <a class="muted-link d-inline-block mr-3" href="/quantumblacklabs/kedro/network/members">
+      <a class="muted-link d-inline-block mr-3" href="/keras-team/keras/network/members">
         <svg aria-label="fork" class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" role="img"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-        54
+        15,962
       </a>
 
     
         <span class="d-inline-block mr-3">
           Built by
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=8168519" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/nakhan98"><img class="avatar mb-1" src="https://avatars2.githubusercontent.com/u/8168519?s=40&amp;v=4" width="20" height="20" alt="@nakhan98" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=3808292" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/tsanikgr"><img class="avatar mb-1" src="https://avatars3.githubusercontent.com/u/3808292?s=40&amp;v=4" width="20" height="20" alt="@tsanikgr" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=805072" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/tolomea"><img class="avatar mb-1" src="https://avatars1.githubusercontent.com/u/805072?s=40&amp;v=4" width="20" height="20" alt="@tolomea" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=48984996" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/LorenaBalanQB"><img class="avatar mb-1" src="https://avatars1.githubusercontent.com/u/48984996?s=40&amp;v=4" width="20" height="20" alt="@LorenaBalanQB" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=44967953" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/DmitriiDeriabinQB"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/44967953?s=40&amp;v=4" width="20" height="20" alt="@DmitriiDeriabinQB" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=710255" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/fchollet"><img class="avatar mb-1" src="https://avatars2.githubusercontent.com/u/710255?s=40&amp;v=4" width="20" height="20" alt="@fchollet" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=11006006" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/farizrahman4u"><img class="avatar mb-1" src="https://avatars1.githubusercontent.com/u/11006006?s=40&amp;v=4" width="20" height="20" alt="@farizrahman4u" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=4445535" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/taehoonlee"><img class="avatar mb-1" src="https://avatars1.githubusercontent.com/u/4445535?s=40&amp;v=4" width="20" height="20" alt="@taehoonlee" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=12891691" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/gabrieldemarmiesse"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/12891691?s=40&amp;v=4" width="20" height="20" alt="@gabrieldemarmiesse" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=14060629" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/ozabluda"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/14060629?s=40&amp;v=4" width="20" height="20" alt="@ozabluda" /></a>
         </span>
 
       <span class="d-inline-block float-sm-right">
         <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        46 stars today
+        35 stars today
       </span>
   </div>
 </li>
 
-              <li class="col-12 d-block width-full py-4 border-bottom" id="pa-django">
+              <li class="col-12 d-block width-full py-4 border-bottom" id="pa-CheatSheetSeries">
   <div class="d-inline-block col-9 mb-1">
     <h3>
-      <a href="/django/django">
-        <span class="text-normal">django / </span>django
+      <a href="/OWASP/CheatSheetSeries">
+        <span class="text-normal">OWASP / </span>CheatSheetSeries
 </a>    </h3>
   </div>
 
   <div class="float-right">
-        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:4164482,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;857E:3D686:442AA80:6864328:5CFF7751&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4ad737d6929ba13f830261dfe288d3fac266a837aa5f598a17d84a34fbe3dc51" href="/login?return_to=%2Fdjango%2Fdjango">
+        <a class="btn btn-sm  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:162723104,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;E504:120DF:39B569:56CA9D:5CFFF75C&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python?since=daily&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="553b57c9caa0826c32d418760284bbd3a70f25ead50b6aa1e92abc3c58443e46" href="/login?return_to=%2FOWASP%2FCheatSheetSeries">
       <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
       Star
 </a>
@@ -1836,7 +1847,7 @@
 
   <div class="py-1">
       <p class="col-9 d-inline-block text-gray m-0 pr-4">
-        The Web framework for perfectionists with deadlines.
+        The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
       </p>
   </div>
 
@@ -1847,29 +1858,29 @@
 </span>
 
 
-      <a class="muted-link d-inline-block mr-3" href="/django/django/stargazers">
+      <a class="muted-link d-inline-block mr-3" href="/OWASP/CheatSheetSeries/stargazers">
         <svg aria-label="star" class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        42,087
+        6,199
       </a>
 
-      <a class="muted-link d-inline-block mr-3" href="/django/django/network/members">
+      <a class="muted-link d-inline-block mr-3" href="/OWASP/CheatSheetSeries/network/members">
         <svg aria-label="fork" class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" role="img"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-        18,112
+        852
       </a>
 
     
         <span class="d-inline-block mr-3">
           Built by
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=411869" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/timgraham"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/411869?s=40&amp;v=4" width="20" height="20" alt="@timgraham" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=180401" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/adrianholovaty"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/180401?s=40&amp;v=4" width="20" height="20" alt="@adrianholovaty" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=6923" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/malcolmt"><img class="avatar mb-1" src="https://avatars2.githubusercontent.com/u/6923?s=40&amp;v=4" width="20" height="20" alt="@malcolmt" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=37345" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/freakboy3742"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/37345?s=40&amp;v=4" width="20" height="20" alt="@freakboy3742" /></a>
-            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=143192" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/claudep"><img class="avatar mb-1" src="https://avatars1.githubusercontent.com/u/143192?s=40&amp;v=4" width="20" height="20" alt="@claudep" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=1573775" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/righettod"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/1573775?s=40&amp;v=4" width="20" height="20" alt="@righettod" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=35339942" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/mackowski"><img class="avatar mb-1" src="https://avatars3.githubusercontent.com/u/35339942?s=40&amp;v=4" width="20" height="20" alt="@mackowski" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=32433575" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/ThunderSon"><img class="avatar mb-1" src="https://avatars3.githubusercontent.com/u/32433575?s=40&amp;v=4" width="20" height="20" alt="@ThunderSon" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=3357202" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/danehrlich1"><img class="avatar mb-1" src="https://avatars0.githubusercontent.com/u/3357202?s=40&amp;v=4" width="20" height="20" alt="@danehrlich1" /></a>
+            <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=531465" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/jmanico"><img class="avatar mb-1" src="https://avatars2.githubusercontent.com/u/531465?s=40&amp;v=4" width="20" height="20" alt="@jmanico" /></a>
         </span>
 
       <span class="d-inline-block float-sm-right">
         <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-        31 stars today
+        38 stars today
       </span>
   </div>
 </li>
@@ -3475,8 +3486,8 @@
 
 <div class="protip protip-callout">
   <strong class="protip">ProTip!</strong>
-  Looking for recently updated Python repositories?
-  <a href="/search?l=python&amp;q=stars%3A%3E1&amp;s=updated&amp;type=Repositories">Try this search</a>
+  Looking for most forked Python repositories?
+  <a href="/search?l=python&amp;q=stars%3A%3E1&amp;s=forks&amp;type=Repositories">Try this search</a>
 </div>
 
     </div>
