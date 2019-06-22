@@ -1,3 +1,6 @@
+import pandas as pd
+import matplotlib.pyplot as plt 
+
 def import_csv(archivo):
     data = pd.read_csv(archivo +'.csv', encoding = 'ISO-8859-1')
     return data
