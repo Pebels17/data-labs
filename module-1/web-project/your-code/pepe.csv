@@ -1,0 +1,2 @@
+,base,clouds.all,cod,coord.lat,coord.lon,dt,id,main.humidity,main.pressure,main.temp,main.temp_max,main.temp_min,name,sys.country,sys.id,sys.message,sys.sunrise,sys.sunset,sys.type,timezone,visibility,weather,wind.deg,wind.speed
+0,stations,0,200,40.42,-3.7,1561401131,3117735,25,1013,303.4,305.15,300.37,Madrid,ES,6443,0.0077,1561351522,1561405728,1,7200,10000,"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",250,3.1
